@@ -13,9 +13,11 @@ This project is divided into the following segments:
 
 There are several libraries that are available in Python to mine data. The most prominent and extensive of them being Tweepy. We chose Tweepy amongst the alternatives because of it's excellent and huge developer and user community. It is regularly maintained in accordance to the new versions of Python. 
 Tweepy provides support for both the REST API for Standard Search in Twitter and real-time data streaming from Twitter. 
-There are certain limitations to the Standard Search such as:
-1. It can only retrieve data via a keyword search for the last 7 days
-2. The data retrived is not the full set of available tweets for the keyword but only the top searches
+
+>There are certain limitations to the Standard Search such as:
+>1. It can only retrieve data via a keyword search for the last 7 days
+>2. The data retrived is not the full set of available tweets for the keyword but only the top searches
+
 Due to these limitations we decided to Stream data in real-time for 9 days inorder to get a more richer and accurate data set for our analysis. 
 
 2. Understanding the attributes of Twitter data 
