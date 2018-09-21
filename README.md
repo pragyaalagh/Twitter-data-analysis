@@ -9,7 +9,7 @@ Through this project, I will demonstrate the methodology of analysing twitter da
 
 This project is divided into the following segments:
 
-1. Data Scrapping and Mining using Python
+**1. Data Scrapping and Mining using Python**
 
 There are several libraries that are available in Python to mine data. The most prominent and extensive of them being Tweepy. We chose Tweepy amongst the alternatives because of it's excellent and huge developer and user community. It is regularly maintained in accordance to the new versions of Python. 
 Tweepy provides support for both the REST API for Standard Search in Twitter and real-time data streaming from Twitter. 
@@ -20,9 +20,9 @@ Tweepy provides support for both the REST API for Standard Search in Twitter and
 
 Due to these limitations we decided to Stream data in real-time for 9 days inorder to get a more richer and accurate data set for our analysis. 
 
-2. Understanding the attributes of Twitter data 
+**2. Understanding the attributes of Twitter data** 
 
-3. Arranging Data and Extracting useful information 
+**3. Arranging Data and Extracting useful information** 
 
-4. Data Analysis and graphical representations
+**4. Data Analysis and graphical representations**
 
