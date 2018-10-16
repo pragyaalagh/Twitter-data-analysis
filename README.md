@@ -22,7 +22,18 @@ Due to these limitations we decided to Stream data in real-time for 9 days inord
 
 2. Understanding the attributes of Twitter data 
 
+In the data set I extracted from Twitter I was able to gather a total of 10,108 tweets that were about online food ordering services. From these, I segmented the Data further into the particular online food ordering service that it was concerned with like Swiggy, FoodPanda and Zomato. 
+There was huge amounts of data that was available for the users that made these tweets. Including mentions, hastags used, retweet status, location of the user etc. Since, significant amount of data was available for the tagged location of the user from where the tweet was made, we used it to analyse which cities engage the most with online food ordering services on social media. 
+
+The main chunk of the data was text data that I used to perform sentiment analysis.
+
 3. Arranging Data and Extracting useful information 
 
-4. Data Analysis and graphical representations
+To perform the analysis and generate graphs I first mapped all the data into pandas DataFrames. DataFrames have great support for matplotlib and make it very easy to plot the data. 
+
+To perform the sentiment analysis I used the Vader Lexicon. 
+
+4. Data Analysis and graphical representations.
+
+
 
