@@ -7,7 +7,7 @@ One of the segments for which this data can prove to be immensely useful is onli
 
 Through this project, I will demonstrate the methodology of analysing twitter data right from mining the data via python to creating visualizations that will help decision makers in understanding their business.
 
-The following segment provides a general introduction, read the full paper here: [Sentiment Analysis](1538566070742_Paper.pdf)
+The following segment provides a general introduction, read the full paper here: [Sentiment Analysis of Twitter Data using Python](1538566070742_Paper.pdf)
 
 This project is divided into the following segments:
 
