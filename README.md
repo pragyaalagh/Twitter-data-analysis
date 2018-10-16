@@ -39,6 +39,6 @@ To perform the sentiment analysis I used the Vader Lexicon.
 ![Mean Negative](neg.png)
 ![Mean Compound](compound.png)
 ![Overall](overall.png)
-![Most Active Cities](Twitter-data-analysis/city wise.png)
+![Most Active Cities](cityanalysis.png)
 
 
