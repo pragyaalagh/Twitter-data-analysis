@@ -35,6 +35,9 @@ To perform the sentiment analysis I used the Vader Lexicon.
 
 4. Data Analysis and graphical representations.
 
-![Swiggy has the most positive Social Media Image amongst users](pos.png)
+![Mean Positive](pos.png)
+![Mean Negative](neg.png)
+![Mean Compound](compound.png)
+
 
 
